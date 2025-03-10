@@ -1,0 +1,47 @@
+/* *{
+    background-color: red;
+} */
+
+.navbar{
+    background-color: rgba(53, 112, 207, 0.409);
+    color: white;
+    font-size: xx-large;
+    display: flexbox;
+    text-align: center;
+    padding: 10px;
+    margin: 20px;
+    gap: 20px;
+    word-spacing: 10px;
+    
+}
+a:visited{
+    color: rgba(245, 21, 21, 0.461)
+}
+
+a:hover{
+    color: rgba(4, 249, 131, 0.500);
+}
+.background-fade{
+    background-color: rgba(53, 112, 207, 0.673);
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.header{
+    text-shadow: 2px 2px 4px rgba(1, 1, 2, 0.778);
+    color: rgba(17, 63, 137, 0.888);
+}
+
+button{
+    color:rgba(0, 0, 0, 0.673);
+    background-color: rgba(41, 100, 228, 0.63);
+    text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.500);
+}
+button:hover {
+    background-color: rgba(245, 21, 21, 0.461);
+}
+
+button:active {
+    background-color: rgba(53, 112, 207, 0.409);
+}
+
