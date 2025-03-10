@@ -39,5 +39,5 @@ This project demonstrates a set of advanced CSS animations and styling technique
 ## How to Use
 
 1. Include the stylesheet in your HTML files:
-   '``html
-   <link href="/advanced/style.css" rel="stylesheet">
+   ```html
+   <link href="/advanced/style.css" rel="stylesheet"> ```
